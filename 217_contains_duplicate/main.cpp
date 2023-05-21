@@ -26,7 +26,7 @@ public:
 };
 
 int main() {
-	vector<int> n =  { 1,1,1,3,3,4,3,2,4,2 };
+	vector<int> n = { 1, 1, 1, 3, 3, 4, 3, 2, 4, 2 };
 	Solution solution = {};
 	cout << solution.containsDuplicate(n) << endl;
 	
