@@ -12,6 +12,7 @@ My leetcode solutions.
 |218| The Skyline Problem | C++ | Hard | ⬜ |
 |217| Contains Duplicate | C++ | Easy | ✔️ |
 |155| Min Stack | C++ | Medium | ✔️ |
+|48| Rotate Image | C++ | Medium | ✔️ |
 |21| Merge Two Sorted Lists | C++ | Easy | ⬜ |
 |13| Roman to Integer | C++ | Easy | ⬜ |
 |12| Integer to Roman | C++ | Medium | ✔️ |
