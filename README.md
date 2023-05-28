@@ -32,7 +32,8 @@ My leetcode solutions.
 |138| Copy List with Random Pointer | C++ | Medium | ⬜ |
 |128| Longest Consecutive Sequence | C++ | Medium | ⬜ |
 |125| Valid Palindrome | C++ | Easy | ⬜ |
-|118| Pascal's Triangle | C++ | Easy | ⬜ |
+|119| Pascal's Triangle II | C++ | Easy | ✔️ |
+|118| Pascal's Triangle | C++ | Easy | ✔️ |
 |84| Largest Rectangle in Histogram | C++ | Hard | ⬜ |
 |70| Climbing Stairs | C++ | Easy | ⬜ |
 |49| Group Anagrams | C++ | Medium | ⬜ |
