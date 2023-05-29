@@ -5,6 +5,7 @@ My leetcode solutions.
 |---| ----- | -------- | ---------- | ---- |
 |2529| Maximum Count of Positive Integer and Negative Integer | C++ | Easy | ⬜ |
 |1851| Minimum Interval to Include Each Query | C++ | Hard | ⬜ |
+|1757| Recyclable and Low Fat Products | SQL | Easy | ⬜ |
 |1411| Number of Ways to Paint N × 3 Grid | C++ | Hard | ⬜ |
 |1276| Number of Burgers with No Waste of Ingredients | C++ | Medium | ⬜ |
 |853| Car Fleet | C++ | Medium | ⬜ |
@@ -14,6 +15,8 @@ My leetcode solutions.
 |704| Binary Search | C++ | Easy | ⬜ |
 |593| Valid Square | C++ | Medium | ⬜ |
 |520| Detect Capital | C++ | Easy | ⬜ |
+|470| Implement Rand10() Using Rand7() | C++ | Medium | ⬜ |
+|461| Hamming Distance | C++ | Easy | ✔️ |
 |391| Perfect Rectangle | C++ | Hard | ⬜ |
 |347| Top K Frequent Elements | C++ | Medium | ⬜ |
 |287| Find the Duplicate Number | C++ | Medium | ⬜ |
@@ -35,6 +38,7 @@ My leetcode solutions.
 |119| Pascal's Triangle II | C++ | Easy | ✔️ |
 |118| Pascal's Triangle | C++ | Easy | ✔️ |
 |84| Largest Rectangle in Histogram | C++ | Hard | ⬜ |
+|72| Edit Distance | C++ | Hard | ⬜ |
 |70| Climbing Stairs | C++ | Easy | ⬜ |
 |49| Group Anagrams | C++ | Medium | ⬜ |
 |48| Rotate Image | C++ | Medium | ✔️ |
