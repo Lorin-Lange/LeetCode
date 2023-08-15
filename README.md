@@ -35,6 +35,9 @@ My leetcode solutions.
 |138| Copy List with Random Pointer | C++ | Medium | ⬜ |
 |128| Longest Consecutive Sequence | C++ | Medium | ⬜ |
 |125| Valid Palindrome | C++ | Easy | ⬜ |
+|123| Best Time to Buy and Sell Stock III | C++ | Hard | ⬜ |
+|122| Best Time to Buy and Sell Stock II | C++ | Medium | ⬜ |
+|121| Best Time to Buy and Sell Stock | C++ | Easy | ✔️ |
 |119| Pascal's Triangle II | C++ | Easy | ✔️ |
 |118| Pascal's Triangle | C++ | Easy | ✔️ |
 |84| Largest Rectangle in Histogram | C++ | Hard | ⬜ |
@@ -43,7 +46,7 @@ My leetcode solutions.
 |49| Group Anagrams | C++ | Medium | ⬜ |
 |48| Rotate Image | C++ | Medium | ✔️ |
 |42| Trapping Rain Water | C++ | Hard | ⬜ |
-|36| Valid Sudoku | C++ | Medium | ⬜ |
+|36| Valid Sudoku | C++ | Medium | ✔️ |
 |25| Reverse Nodes in k-Group | C++ | Hard | ⬜ |
 |23| Merge k Sorted Lists | C++ | Hard | ⬜ |
 |22| Generate Parentheses | C++ | Medium | ⬜ |
@@ -51,8 +54,8 @@ My leetcode solutions.
 |20| Valid Parentheses | C++ | Easy | ⬜ |
 |19| Remove Nth Node From End of List | C++ | Medium | ⬜ |
 |15| 3Sum | C++ | Medium | ⬜ |
-|11| Container With Most Water | C++ | Medium | ⬜ |
 |13| Roman to Integer | C++ | Easy | ✔️ |
 |12| Integer to Roman | C++ | Medium | ✔️ |
+|11| Container With Most Water | C++ | Medium | ⬜ |
 |2| Add Two Numbers | C++ | Medium | ⬜ |
 |1| Two Sum | C++ | Easy | ⬜ |
