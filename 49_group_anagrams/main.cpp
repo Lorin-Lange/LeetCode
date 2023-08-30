@@ -28,7 +28,7 @@ public:
     }
 };
 
-void print_list(vector<vector<string>>& lists) {
+void print_lists(vector<vector<string>>& lists) {
     cout << "[";
     for(int i = 0; i < lists.size(); i++) {
         cout << "[";
@@ -54,17 +54,17 @@ int main() {
     vector<string> str1 = { "eat", "tea", "tan", "ate", "nat", "bat" };
     // [["bat"],["nat","tan"],["ate","eat","tea"]]
     vector<vector<string>> res1 = solution.groupAnagrams(str1);
-    print_list(res1);
+    print_lists(res1);
 
     vector<string> str2 = { "" };
     // [[""]]
     vector<vector<string>> res2 = solution.groupAnagrams(str2);
-    print_list(res2);
+    print_lists(res2);
 
     vector<string> str3 = { "a" };
     // [["a"]]
     vector<vector<string>> res3 = solution.groupAnagrams(str3);
-    print_list(res3);
+    print_lists(res3);
     
     return EXIT_SUCCESS;
 }

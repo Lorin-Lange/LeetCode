@@ -43,7 +43,9 @@ My leetcode solutions.
 |84| Largest Rectangle in Histogram | C++ | Hard | ⬜ |
 |72| Edit Distance | C++ | Hard | ⬜ |
 |70| Climbing Stairs | C++ | Easy | ⬜ |
-|49| Group Anagrams | C++ | Medium | ⬜ |
+|67| Add Binary | C++ | Easy | ✔️ |
+|51| N-Queens | C++ | Hard | ⬜ |
+|49| Group Anagrams | C++ | Medium | ✔️ |
 |48| Rotate Image | C++ | Medium | ✔️ |
 |42| Trapping Rain Water | C++ | Hard | ⬜ |
 |36| Valid Sudoku | C++ | Medium | ✔️ |

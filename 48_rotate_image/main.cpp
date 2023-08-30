@@ -28,7 +28,6 @@ public:
                 int temp = matrix[i][j];
                 matrix[i][j] = matrix[i][matrix.size() - j - 1];
                 matrix[i][matrix.size() - j - 1] = temp;
-
             }
         }
 
