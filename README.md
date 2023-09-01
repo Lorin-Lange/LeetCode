@@ -53,7 +53,7 @@ My leetcode solutions.
 |23| Merge k Sorted Lists | C++ | Hard | ⬜ |
 |22| Generate Parentheses | C++ | Medium | ⬜ |
 |21| Merge Two Sorted Lists | C++ | Easy | ✔️ |
-|20| Valid Parentheses | C++ | Easy | ⬜ |
+|20| Valid Parentheses | C++, Rust | Easy | ✔️ |
 |19| Remove Nth Node From End of List | C++ | Medium | ⬜ |
 |15| 3Sum | C++ | Medium | ⬜ |
 |13| Roman to Integer | C++ | Easy | ✔️ |
