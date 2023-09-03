@@ -1,4 +1,8 @@
-
+////////////////////////////////////////////////////
+//                    LeetCode                    //
+//       104. Maximum Depth of Binary Tree        //
+//            Solution by Lorin Lange             //
+////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>
