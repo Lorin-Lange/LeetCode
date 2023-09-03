@@ -22,10 +22,10 @@ My leetcode solutions.
 |287| Find the Duplicate Number | C++ | Medium | ⬜ |
 |242| Valid Anagram | C++ | Easy | ⬜ |
 |238| Product of Array Except Self | C++ | Medium | ✔️ |
-|226| Invert Binary Tree | C | Easy | ✔️ |
+|226| Invert Binary Tree | C, Kotlin, Rust | Easy | ✔️ |
 |218| The Skyline Problem | C++ | Hard | ⬜ |
 |217| Contains Duplicate | C++ | Easy | ✔️ |
-|206| Reverse Linked List | C++ | Easy | ⬜ |
+|206| Reverse Linked List | C++ | Easy | ✔️ |
 |167| Two Sum II - Input Array Is Sorted | C++ | Medium | ⬜ |
 |155| Min Stack | C++ | Medium | ✔️ |
 |150| Evaluate Reverse Polish Notation | Rust | Medium | ✔️ |
@@ -41,6 +41,10 @@ My leetcode solutions.
 |121| Best Time to Buy and Sell Stock | C++ | Easy | ✔️ |
 |119| Pascal's Triangle II | C++ | Easy | ✔️ |
 |118| Pascal's Triangle | C++ | Easy | ✔️ |
+|112| Path Sum | C | Easy | ✔️ |
+|110| Balanced Binary Tree | C | Easy | ✔️ |
+|104| Maximum Depth of Binary Tree | C | Easy | ✔️ |
+|94| Binary Tree Inorder Traversal | C++ | Easy | ✔️ |
 |84| Largest Rectangle in Histogram | C++ | Hard | ⬜ |
 |72| Edit Distance | C++ | Hard | ⬜ |
 |70| Climbing Stairs | C++ | Easy | ⬜ |
