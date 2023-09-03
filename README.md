@@ -18,14 +18,14 @@ My leetcode solutions.
 |470| Implement Rand10() Using Rand7() | C++ | Medium | ⬜ |
 |461| Hamming Distance | C++ | Easy | ✔️ |
 |391| Perfect Rectangle | C++ | Hard | ⬜ |
-|347| Top K Frequent Elements | C++ | Medium | ⬜ |
+|347| Top K Frequent Elements | C++ | Medium | ✔️ |
 |287| Find the Duplicate Number | C++ | Medium | ⬜ |
 |242| Valid Anagram | C++ | Easy | ⬜ |
 |238| Product of Array Except Self | C++ | Medium | ✔️ |
 |226| Invert Binary Tree | C, Kotlin, Rust | Easy | ✔️ |
 |218| The Skyline Problem | C++ | Hard | ⬜ |
 |217| Contains Duplicate | C++ | Easy | ✔️ |
-|206| Reverse Linked List | C++ | Easy | ✔️ |
+|206| Reverse Linked List | C | Easy | ✔️ |
 |167| Two Sum II - Input Array Is Sorted | C++ | Medium | ⬜ |
 |155| Min Stack | C++ | Medium | ✔️ |
 |150| Evaluate Reverse Polish Notation | Rust | Medium | ✔️ |
