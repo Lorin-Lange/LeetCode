@@ -16,11 +16,7 @@ public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int, int> m;
         for (int num : nums) {
-            if (m.find(num) != m.end()) {
-                m[num] = m[num] + 1;
-            } else {
-                m[num] = 1;
-            }
+            m[num] += 1;
         }
         vector<pair<int, int>> mvec;
         for (auto& it : m) {
