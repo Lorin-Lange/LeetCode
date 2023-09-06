@@ -32,10 +32,10 @@ My leetcode solutions.
 |149| Max Points on a Line | C++ | Hard | ⬜ |
 |146| LRU Cache | C++ | Medium | ⬜ |
 |143| Reorder List | C++ | Medium | ⬜ |
-|141| Linked List Cycle | C++ | Easy | ⬜ |
+|141| Linked List Cycle | C | Easy | ✔️ |
 |138| Copy List with Random Pointer | C++ | Medium | ⬜ |
-|128| Longest Consecutive Sequence | C++ | Medium | ⬜ |
-|125| Valid Palindrome | C++ | Easy | ⬜ |
+|128| Longest Consecutive Sequence | C++ | Medium | ✔️ |
+|125| Valid Palindrome | C++ | Easy | ✔️ |
 |123| Best Time to Buy and Sell Stock III | C++ | Hard | ⬜ |
 |122| Best Time to Buy and Sell Stock II | C++ | Medium | ⬜ |
 |121| Best Time to Buy and Sell Stock | C++ | Easy | ✔️ |
