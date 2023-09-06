@@ -19,8 +19,6 @@ public:
         [](unsigned char c){ return tolower(c); });
         string str = s;
         reverse(str.begin(), str.end());
-        cout << s << endl;
-        cout << str << endl;
         return s == str;
     }
 };
