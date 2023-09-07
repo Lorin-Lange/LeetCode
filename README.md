@@ -16,6 +16,7 @@ My leetcode solutions.
 |704| Binary Search | C++ | Easy | ⬜ |
 |595| Big Countries | SQL | Easy | ✔️ |
 |593| Valid Square | C++ | Medium | ⬜ |
+|584| Find Customer Referee | SQL | Easy | ✔️ |
 |520| Detect Capital | C++ | Easy | ⬜ |
 |470| Implement Rand10() Using Rand7() | C++ | Medium | ⬜ |
 |461| Hamming Distance | C++ | Easy | ✔️ |
