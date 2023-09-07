@@ -14,6 +14,7 @@ My leetcode solutions.
 |785| Is Graph Bipartite? | C++ | Medium | ⬜ |
 |739| Daily Temperatures | C++ | Medium | ⬜ |
 |704| Binary Search | C++ | Easy | ⬜ |
+|595| Big Countries | SQL | Easy | ✔️ |
 |593| Valid Square | C++ | Medium | ⬜ |
 |520| Detect Capital | C++ | Easy | ⬜ |
 |470| Implement Rand10() Using Rand7() | C++ | Medium | ⬜ |
