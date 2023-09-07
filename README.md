@@ -6,6 +6,7 @@ My leetcode solutions.
 |2529| Maximum Count of Positive Integer and Negative Integer | C++ | Easy | ⬜ |
 |1851| Minimum Interval to Include Each Query | C++ | Hard | ⬜ |
 |1757| Recyclable and Low Fat Products | SQL | Easy | ⬜ |
+|1683| Invalid Tweets | SQL | Easy | ✔️ |
 |1411| Number of Ways to Paint N × 3 Grid | C++ | Hard | ⬜ |
 |1276| Number of Burgers with No Waste of Ingredients | C++ | Medium | ⬜ |
 |1148| Article Views I | SQL | Easy | ✔️ |
@@ -26,6 +27,7 @@ My leetcode solutions.
 |242| Valid Anagram | C++ | Easy | ⬜ |
 |238| Product of Array Except Self | C++ | Medium | ✔️ |
 |226| Invert Binary Tree | C, Kotlin, Rust | Easy | ✔️ |
+|224| Basic Calculator | Rust | Hard | ⬜ |
 |218| The Skyline Problem | C++ | Hard | ⬜ |
 |217| Contains Duplicate | C++ | Easy | ✔️ |
 |206| Reverse Linked List | C | Easy | ✔️ |
