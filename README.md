@@ -8,6 +8,7 @@ My leetcode solutions.
 |1757| Recyclable and Low Fat Products | SQL | Easy | ⬜ |
 |1411| Number of Ways to Paint N × 3 Grid | C++ | Hard | ⬜ |
 |1276| Number of Burgers with No Waste of Ingredients | C++ | Medium | ⬜ |
+|1148| Article Views I | SQL | Easy | ✔️ |
 |853| Car Fleet | C++ | Medium | ⬜ |
 |850| Rectangle Area II | C++ | Hard | ⬜ |
 |785| Is Graph Bipartite? | C++ | Medium | ⬜ |
