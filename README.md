@@ -27,7 +27,7 @@ My leetcode solutions.
 |217| Contains Duplicate | C++ | Easy | ✔️ |
 |206| Reverse Linked List | C | Easy | ✔️ |
 |195| Tenth Line | Bash | Easy | ✔️ |
-|194| Transpose File | Bash | Medium | ⬜ |
+|194| Transpose File | Bash | Medium | ✔️ |
 |193| Valid Phone Numbers | Bash | Easy | ✔️ |
 |192| Word Frequency | Bash | Medium | ⬜ |
 |167| Two Sum II - Input Array Is Sorted | C++ | Medium | ⬜ |
