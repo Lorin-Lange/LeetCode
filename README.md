@@ -26,10 +26,10 @@ My leetcode solutions.
 |218| The Skyline Problem | C++ | Hard | ⬜ |
 |217| Contains Duplicate | C++ | Easy | ✔️ |
 |206| Reverse Linked List | C | Easy | ✔️ |
-|192| Word Frequency | Bash | Medium | ⬜ |
-|193| Valid Phone Numbers | Bash | Easy | ✔️ |
+|195| Tenth Line | Bash | Easy | ✔️ |
 |194| Transpose File | Bash | Medium | ⬜ |
-|195| Tenth Line | Bash | Easy | ⬜ |
+|193| Valid Phone Numbers | Bash | Easy | ✔️ |
+|192| Word Frequency | Bash | Medium | ⬜ |
 |167| Two Sum II - Input Array Is Sorted | C++ | Medium | ⬜ |
 |155| Min Stack | C++ | Medium | ✔️ |
 |150| Evaluate Reverse Polish Notation | Rust | Medium | ✔️ |
