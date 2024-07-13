@@ -3,6 +3,7 @@ My leetcode solutions.
 
 | # | Title | Solution | Difficulty | Done |
 |---| ----- | -------- | ---------- | ---- |
+|3194| Minimum Average of Smallest and Largest Elements | C++ | Easy | ✔️ |
 |2529| Maximum Count of Positive Integer and Negative Integer | C++ | Easy | ⬜ |
 |1851| Minimum Interval to Include Each Query | C++ | Hard | ⬜ |
 |1757| Recyclable and Low Fat Products | SQL | Easy | ⬜ |
