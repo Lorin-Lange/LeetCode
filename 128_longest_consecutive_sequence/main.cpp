@@ -15,7 +15,7 @@ public:
     int longestConsecutive(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int counter = 0;
-        int old_counter = 0;
+        int bigger_counter = 0;
         int last;
         if(nums.size() != 0) last = nums[0];
         for(int i = 0; i < nums.size(); i++) {
@@ -24,13 +24,13 @@ public:
                 counter++;
                 last = nums[i];
             } else {
-                if(counter > old_counter) old_counter = counter;
+                if(counter > bigger_counter) bigger_counter = counter;
                 counter = 1;
                 last = nums[i];
             }
         }
-        if(counter > old_counter) old_counter = counter;
-        return old_counter;
+        if(counter > bigger_counter) bigger_counter = counter;
+        return bigger_counter;
     }
 };
 
