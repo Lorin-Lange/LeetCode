@@ -55,10 +55,9 @@ My leetcode solutions.
 |110| Balanced Binary Tree | C | Easy | ✔️ |
 |104| Maximum Depth of Binary Tree | C | Easy | ✔️ |
 |94| Binary Tree Inorder Traversal | C++ | Easy | ✔️ |
-|90| Climbing Stairs | C, C++, Rust | Easy | ✔️ |
 |84| Largest Rectangle in Histogram | C++ | Hard | ⬜ |
 |72| Edit Distance | C++ | Hard | ⬜ |
-|70| Climbing Stairs | C++ | Easy | ⬜ |
+|70| Climbing Stairs | C, C++, Rust | Easy | ✔️ |
 |67| Add Binary | C++ | Easy | ✔️ |
 |51| N-Queens | C++ | Hard | ⬜ |
 |49| Group Anagrams | C++ | Medium | ✔️ |
