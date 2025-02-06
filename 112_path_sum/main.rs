@@ -4,6 +4,11 @@
 //            Solution by Lorin Lange             //
 ////////////////////////////////////////////////////
 
+use std::rc::Rc;
+use std::cell::RefCell;
+
+struct Solution;
+
 // Definition for a binary tree node.
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
@@ -22,15 +27,24 @@ impl TreeNode {#[inline]
     }
 }
 
-use std::rc::Rc;
-use std::cell::RefCell;
 impl Solution {
     pub fn has_path_sum(root: Option<Rc<RefCell<TreeNode>>>, target_sum: i32) -> bool {
-        if root.is_none() { return false }
-        let root = root.unwrap();
-        let mut root = root.borrow_mut();
-        let sum = target_sum - root.val;
-        if sum == 0 && root.left.is_none() && root.right.is_none() { return true }
-        Self::has_path_sum(root.left.take(), sum) || Self::has_path_sum(root.right.take(), sum)
+        match root {
+            None => false,
+            Some(node) => {
+                let mut node = node.borrow_mut();
+                let sum = target_sum - node.val;
+                if node.left.is_none() && node.right.is_none() { 
+                    return sum == 0 
+                }
+                   Self::has_path_sum(node.left.take(), sum) 
+                || Self::has_path_sum(node.right.take(), sum)
+            }
+        }
     }
+}
+
+fn main() {
+    let _ = Solution::has_path_sum(None, 0);
+    println!("112. Path Sum");
 }
