@@ -4,7 +4,7 @@
 //            Solution by Lorin Lange             //
 ////////////////////////////////////////////////////
 
-pub struct Solution {}
+struct Solution;
 
 impl Solution {
     pub fn eval_rpn(tokens: Vec<String>) -> i32 {
@@ -39,15 +39,29 @@ impl Solution {
 }
 
 fn main() {
+    println!("150. Evaluate Reverse Polish Notation");
+}
 
-    let v1: Vec<String> = ["2","1","+","3","*"].iter().map(|x| x.to_string()).collect();
-    assert_eq!(Solution::eval_rpn(v1), 9);
+#[cfg(test)]
+mod test {
+    use super::*;
 
-    let v2: Vec<String> = ["4","13","5","/","+"].iter().map(|x| x.to_string()).collect();
-    assert_eq!(Solution::eval_rpn(v2), 6);
+    #[test]
+    fn case_1() {
+        let v1: Vec<String> = ["2","1","+","3","*"].iter().map(|x| x.to_string()).collect();
+        assert_eq!(Solution::eval_rpn(v1), 9);
+    }
 
-    let v3: Vec<String> = ["10","6","9","3","+","-11","*","/","*","17","+","5","+"].iter().map(|x| x.to_string()).collect();
-    assert_eq!(Solution::eval_rpn(v3), 22);
+    #[test]
+    fn case_2() {
+        let v2: Vec<String> = ["4","13","5","/","+"].iter().map(|x| x.to_string()).collect();
+        assert_eq!(Solution::eval_rpn(v2), 6);    
+    }
 
-    println!("Success!");
+    #[test]
+    fn case_3() {
+        let v3: Vec<String> = ["10","6","9","3","+","-11","*","/","*","17","+","5","+"].iter().map(|x| x.to_string()).collect();
+        assert_eq!(Solution::eval_rpn(v3), 22);    
+    }
+
 }
